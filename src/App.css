@@ -1,12 +1,12 @@
 .container {
   width: 100%;
+  max-width: 1200px;
   height: 100vh;
   margin: auto;
 }
 
 .input_container {
-  margin-top: 20px;
-  margin-left: 50%;
+  margin: 20px auto;
 }
 
 .container h2 {
