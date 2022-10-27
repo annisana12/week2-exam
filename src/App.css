@@ -7,6 +7,9 @@
 
 .input_container {
   margin: 20px auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .container h2 {
